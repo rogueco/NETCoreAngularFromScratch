@@ -1,0 +1,14 @@
+/repos/Personal/Development/Udemy/NETCoreAngularFromScratch/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.deps.json
+/repos/Personal/Development/Udemy/NETCoreAngularFromScratch/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.runtimeconfig.json
+/repos/Personal/Development/Udemy/NETCoreAngularFromScratch/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.runtimeconfig.dev.json
+/repos/Personal/Development/Udemy/NETCoreAngularFromScratch/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.dll
+/repos/Personal/Development/Udemy/NETCoreAngularFromScratch/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.pdb
+/repos/Personal/Development/Udemy/NETCoreAngularFromScratch/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.csprojAssemblyReference.cache
+/repos/Personal/Development/Udemy/NETCoreAngularFromScratch/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.csproj.CoreCompileInputs.cache
+/repos/Personal/Development/Udemy/NETCoreAngularFromScratch/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorAssemblyInfo.cache
+/repos/Personal/Development/Udemy/NETCoreAngularFromScratch/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorAssemblyInfo.cs
+/repos/Personal/Development/Udemy/NETCoreAngularFromScratch/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.AssemblyInfoInputs.cache
+/repos/Personal/Development/Udemy/NETCoreAngularFromScratch/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.AssemblyInfo.cs
+/repos/Personal/Development/Udemy/NETCoreAngularFromScratch/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorTargetAssemblyInfo.cache
+/repos/Personal/Development/Udemy/NETCoreAngularFromScratch/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.dll
+/repos/Personal/Development/Udemy/NETCoreAngularFromScratch/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.pdb
