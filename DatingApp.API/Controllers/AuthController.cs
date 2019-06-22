@@ -20,11 +20,12 @@ namespace DatingApp.API.Controllers
         public async Task<IActionResult> Register(UserForRegisterDto userForRegisterDto)
         {
             // validate request
-
-            if (!ModelState.IsValid)
-            {
-                return BadRequest(ModelState);
-            }
+            
+            // This is not needed it is handed by the [ApiController] attribute.
+            // if (!ModelState.IsValid)
+            // {
+            //     return BadRequest(ModelState);
+            // }
 
             userForRegisterDto.Username = userForRegisterDto.Username.ToLower();
 
