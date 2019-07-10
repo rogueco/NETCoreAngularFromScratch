@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/repos/Personal/Development/Udemy/NETCoreAngularFromScratch/DatingApp.API/DatingApp.API.csproj": {}
+    "/repos/Development/Tutorials/NETCore/NETCoreAngularFromScratch/DatingApp.API/DatingApp.API.csproj": {}
   },
   "projects": {
-    "/repos/Personal/Development/Udemy/NETCoreAngularFromScratch/DatingApp.API/DatingApp.API.csproj": {
+    "/repos/Development/Tutorials/NETCore/NETCoreAngularFromScratch/DatingApp.API/DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/repos/Personal/Development/Udemy/NETCoreAngularFromScratch/DatingApp.API/DatingApp.API.csproj",
+        "projectUniqueName": "/repos/Development/Tutorials/NETCore/NETCoreAngularFromScratch/DatingApp.API/DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "/repos/Personal/Development/Udemy/NETCoreAngularFromScratch/DatingApp.API/DatingApp.API.csproj",
+        "projectPath": "/repos/Development/Tutorials/NETCore/NETCoreAngularFromScratch/DatingApp.API/DatingApp.API.csproj",
         "packagesPath": "/Users/tomfletcher/.nuget/packages/",
-        "outputPath": "/repos/Personal/Development/Udemy/NETCoreAngularFromScratch/DatingApp.API/obj/",
+        "outputPath": "/repos/Development/Tutorials/NETCore/NETCoreAngularFromScratch/DatingApp.API/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
