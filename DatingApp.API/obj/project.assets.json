@@ -6113,7 +6113,7 @@
       ]
     },
     "Microsoft.Data.Sqlite.Core/2.2.4": {
-      "sha512": "8W+jei7jh4ft4hB/ljm1t0OY011ZkM48YAPJoKXHGugJXPBeiXlmN+/WahH9G+mYgYwHnqtW9zq3/vpwG1cSFg==",
+      "sha512": "69DJj8bUJpXPfWpmJ/Sh165GWjLjlL516l0GnJDImabfR+leXb61HaQF97THWvyx5yY7MvpO94QW5nyiXMVOAA==",
       "type": "package",
       "path": "microsoft.data.sqlite.core/2.2.4",
       "files": [
@@ -6141,7 +6141,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore/2.2.4": {
-      "sha512": "UgvhCfj2e0B1p83f4+juEhkvOP/8vRDZ3HEo2tkX9/wS6uWTPu2WBf5kudXI74ur0AJvHu5phLBIJ1Ob+kMXww==",
+      "sha512": "aQ0sAe2mOtSp3StjKT2wDA/BO3k8BLfpIXIG1MOlGytjQWQOvW3BzDPfgXOhxbSa7Bhdsx97aYzZUGD3DQAQjQ==",
       "type": "package",
       "path": "microsoft.entityframeworkcore/2.2.4",
       "files": [
@@ -6154,7 +6154,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Abstractions/2.2.4": {
-      "sha512": "4HzQsktwPyDJFUS7TMKP/5rR7DQzMNDfyKkTbOaV5I0K5eyG6+668kGQDU8BQVjAVqtBDFW9OTG2Nue+nVD2jg==",
+      "sha512": "GjtIOANlpy7JcGK0Q169n52713hIHHfxUHq1+xoWlAZYSI0h/n2DrEWwCIsrnInU8FaLq4cIG7UgMTL0CnUUPw==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.abstractions/2.2.4",
       "files": [
@@ -6167,7 +6167,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Analyzers/2.2.4": {
-      "sha512": "7rejM6oRqUqNrj1BK4ico0Fb6XMADNn6lqPgYGYg49vJqA0NWxbavLUkMPzcPR0AYznPbHFQPuNHqT6JfCM+kA==",
+      "sha512": "cLJo6dikdFQd2j9cFHhC2M1rzUeYvJLR/m7cBcuKRI6ek5t5ZyGZ0hzEJwCQmKRDV4tAl5p+NIrfDjfqTK8POw==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.analyzers/2.2.4",
       "files": [
@@ -6209,7 +6209,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational/2.2.4": {
-      "sha512": "h+M/sXgQSXlcyKLYH5x+Ah7vKE+6JIh2IUPQi9lbUka5rBYIX+B6yBt3uY5/occAbrACVGK/9tU9hy9V01KgBg==",
+      "sha512": "Ga+kJhoSBNYv8C2gQl2sB5bTBkWsLFn92CPjZA5ql/MyxJTWri6lf44/GSYEcOQj0tqF5HhMAaB1HxQMiIPBcQ==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.relational/2.2.4",
       "files": [
@@ -6222,7 +6222,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Sqlite/2.2.4": {
-      "sha512": "Uh/+m8Wp22p0IjQiIF+kuuQg/40ipyfC4+4rhpkHPvtOxYIpNUZV6E4JEU8tfcISWLyVhUDW1t5RXnPn5rz9ZA==",
+      "sha512": "SfDyGsk8S+EN/VTli9zOSwzoPkNOTKJ1dzZtXKXZiaDb9OmDxW8mQsKPW8A1CTiZx+/2ACVb8Moc2Sw3cIt6xQ==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.sqlite/2.2.4",
       "files": [
@@ -6234,7 +6234,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Sqlite.Core/2.2.4": {
-      "sha512": "0wMsHeMbdRn1HUs8WBq8ncSLzANyiTDDR5DhSxIFvX9TsY2V3uOl0knXpRQfTMXUPfA5BDcZGS3YUX6ayR2upA==",
+      "sha512": "RezSS0Tli9yfjIJIrwyB334gHymL6/Oy9YM47NyE4kCT0eLkZjs4VKptnX6Pvl8+12oP1gTDvuYZhrhpxfOFoA==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.sqlite.core/2.2.4",
       "files": [
@@ -7953,7 +7953,7 @@
       ]
     },
     "SQLitePCLRaw.bundle_green/1.1.12": {
-      "sha512": "xbscpnvFQy5JNqcNC5djEVJMANSWuZ/SYFG8eCDLZ81e6lMaBuBPfi5dsm8bnCFmYlealei3eDha+/StW7a8og==",
+      "sha512": "U5lZv+E0JBCG5uQngaRgyIAlbzIwRczb0m46XJfLGXovtfVOaMNRY/oGyKAJjdexVrfqLRd+JyopGMySpAZRGQ==",
       "type": "package",
       "path": "sqlitepclraw.bundle_green/1.1.12",
       "files": [
@@ -8000,7 +8000,7 @@
       ]
     },
     "SQLitePCLRaw.core/1.1.12": {
-      "sha512": "B43HNCk0NmwLgHEqLSRdcsYKFJeqnv8+XWLXl/g2ZrP7htmlPi2JpurZvqnYyVsBsRpaQfLPxhMBo8Na/29mIw==",
+      "sha512": "S4hr+tE275ran5jyKFW/FYPG6Bz6nsHUp9H8chqKxzk21PxJadLd9LnvLe6LMRP/IqY5+LOIIDQF3m/2iDlZ7Q==",
       "type": "package",
       "path": "sqlitepclraw.core/1.1.12",
       "files": [
@@ -8026,7 +8026,7 @@
       ]
     },
     "SQLitePCLRaw.lib.e_sqlite3.linux/1.1.12": {
-      "sha512": "c/SFtlLETx3LYsj/IRFvvaf0ji0IwrXVz3aTLlcH5S/cRW/TCcgVVJssUIgLv8hsmS2iZZy139hbLU/x2eysLA==",
+      "sha512": "Tn/YE1VxWtHa4MQ9KC//ptIw6cLAUh+xXSdpX7MyGINmb4/igqyx0IOEq5WeH/+cuI/EnDtdWAOn98eMQnKsTQ==",
       "type": "package",
       "path": "sqlitepclraw.lib.e_sqlite3.linux/1.1.12",
       "files": [
@@ -8048,7 +8048,7 @@
       ]
     },
     "SQLitePCLRaw.lib.e_sqlite3.osx/1.1.12": {
-      "sha512": "imLE78LaSu0jdg1p+b8irnMlpMNmAtZ0heXN5Zj2KpF53H8hIVlKnQC1gf9UKxrLvLiGPteaoil80vtDhNWKuA==",
+      "sha512": "qfl1ljn6NOQDyM2i9JDZc6xekHoC+Fqe4GzuhWFCS6siI7lLInw09HHSZRqyimV36vjdQYnyBBFKSn53rSOYkA==",
       "type": "package",
       "path": "sqlitepclraw.lib.e_sqlite3.osx/1.1.12",
       "files": [
@@ -8066,7 +8066,7 @@
       ]
     },
     "SQLitePCLRaw.lib.e_sqlite3.v110_xp/1.1.12": {
-      "sha512": "diHgQFQWktc58Ekptk8/hOe7E336M4rU/HMVKLY2QcKWLKK8X3eKYvURYuRBdRcwIDL6p4TCkihEyelj9rAp+w==",
+      "sha512": "YfmaVhcEyAGU6BZ7NQiYYfCHKsCYjldwsafiFKArzqeM8MHuhfqft1Fjdv7ncukXrvKsHXhCrzJzKEMwPXiSSg==",
       "type": "package",
       "path": "sqlitepclraw.lib.e_sqlite3.v110_xp/1.1.12",
       "files": [
@@ -8084,7 +8084,7 @@
       ]
     },
     "SQLitePCLRaw.provider.e_sqlite3.netstandard11/1.1.12": {
-      "sha512": "GQzL515Ar3BvV2Yx7fXnkszB1j9rKWSWtvXWmq6/ZJ8ueWgLWWF+DbwA2Ux0JobXyhSvVqSmajrck1vhA2cxXw==",
+      "sha512": "qjz6Ad1Q5hiI8imCiG5Mpa/w8E8+rAk3SRJdX54uEOo5nPywiN1H0jmMZO+ID0nPibQA3yjlAHt5/GcLW9Iftg==",
       "type": "package",
       "path": "sqlitepclraw.provider.e_sqlite3.netstandard11/1.1.12",
       "files": [
@@ -12548,11 +12548,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/repos/Personal/Development/Udemy/NETCoreAngularFromScratch/DatingApp.API/DatingApp.API.csproj",
+      "projectUniqueName": "/repos/Development/Tutorials/NETCore/NETCoreAngularFromScratch/DatingApp.API/DatingApp.API.csproj",
       "projectName": "DatingApp.API",
-      "projectPath": "/repos/Personal/Development/Udemy/NETCoreAngularFromScratch/DatingApp.API/DatingApp.API.csproj",
+      "projectPath": "/repos/Development/Tutorials/NETCore/NETCoreAngularFromScratch/DatingApp.API/DatingApp.API.csproj",
       "packagesPath": "/Users/tomfletcher/.nuget/packages/",
-      "outputPath": "/repos/Personal/Development/Udemy/NETCoreAngularFromScratch/DatingApp.API/obj/",
+      "outputPath": "/repos/Development/Tutorials/NETCore/NETCoreAngularFromScratch/DatingApp.API/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
