@@ -1,5 +1,5 @@
 {
-  "FilePath": "/repos/Development/Tutorials/NETCore/NETCoreAngularFromScratch/DatingApp.API/DatingApp.API.csproj",
+  "FilePath": "/repos/Personal/Development/Udemy/NETCoreAngularFromScratch/DatingApp.API/DatingApp.API.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2941,5 +2941,6 @@
     "CSharpLanguageVersion": 703
   },
   "RootNamespace": "DatingApp.API",
-  "Documents": []
+  "Documents": [],
+  "SerializationFormat": "0.1"
 }
