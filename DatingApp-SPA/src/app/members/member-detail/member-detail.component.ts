@@ -16,7 +16,7 @@ import { TabsetComponent } from '../../../../node_modules/ngx-bootstrap';
   styleUrls: ['./member-detail.component.css'],
 })
 export class MemberDetailComponent implements OnInit {
-  @ViewChild('memberTabs', { static: false }) memberTabs: TabsetComponent;
+  @ViewChild('memberTabs', { static: true }) memberTabs: TabsetComponent;
   user: User;
   galleryOptions: NgxGalleryOptions[];
   galleryImages: NgxGalleryImage[];
