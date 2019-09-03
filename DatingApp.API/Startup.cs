@@ -32,7 +32,7 @@ namespace DatingApp.API
 
         public IConfiguration Configuration { get; }
 
-        public void configureDevelopmentServices(IServiceCollection services)
+        public void ConfigureDevelopmentServices(IServiceCollection services)
         {
             services.AddDbContext<DataContext>(x => x.UseSqlite
             (Configuration.GetConnectionString("DefaultConnection")));
@@ -40,7 +40,7 @@ namespace DatingApp.API
             ConfigureServices(services);
         }
 
-        public void configureProductionServices(IServiceCollection services)
+        public void ConfigureProductionServices(IServiceCollection services)
         {
             services.AddDbContext<DataContext>(x => x.UseMySql
             (Configuration.GetConnectionString("DefaultConnection")));
@@ -49,7 +49,6 @@ namespace DatingApp.API
         }
         public void ConfigureServices(IServiceCollection services)
         {
-
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2)
                 .AddJsonOptions(opt =>
                 {
