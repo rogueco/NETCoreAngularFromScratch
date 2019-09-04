@@ -113,7 +113,7 @@ namespace DatingApp.API
             {
                 routes.MapSpaFallbackRoute(
                     name: "spa-fallback",
-                    defaults: new { controller = "FallBack", action = "Index" }
+                    defaults: new { controller = "Fallback", action = "Index" }
                 );
             });
         }

@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DatingApp.API.Controllers
 {
-    public class FallBack : Controller
+    public class FallbackController : Controller
     {
         public IActionResult Index()
         {
