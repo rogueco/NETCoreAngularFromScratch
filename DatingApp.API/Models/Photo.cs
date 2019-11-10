@@ -16,7 +16,7 @@ namespace DatingApp.API.Models
 
         public string PublicId { get; set; }
 
-        public User user { get; set; }
+        public virtual User user { get; set; }
 
         public int UserId { get; set; }
     }
