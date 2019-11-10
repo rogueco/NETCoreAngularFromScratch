@@ -18,7 +18,7 @@ export class MemberEditComponent implements OnInit {
     private userService: UserService,
     private authService: AuthService
   ) {}
-  @ViewChild('editForm', { static: false }) editForm: NgForm;
+  @ViewChild('editForm', { static: true }) editForm: NgForm;
 
   user: User;
   photoUrl: string;
